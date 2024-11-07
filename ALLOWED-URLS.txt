@@ -1,0 +1,2 @@
+devex-core/test/test-allowed
+shared-runner/cdaas-test/testing-pipelines
